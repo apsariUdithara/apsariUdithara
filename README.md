@@ -4,14 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/apsariUdithara">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=640&lines=Computer+Engineering+%40+University+of+Ruhuna+%F0%9F%87%B1%F0%9F%87%B0;Building+LLM+apps%2C+RAG+pipelines+%26+AI+agents+%F0%9F%A4%96;Scalable+backends+with+NestJS+%26+Spring+Boot+%E2%9A%99%EF%B8%8F;Researching+AI+%C3%97+Security+%C3%97+Distributed+Systems+%F0%9F%94%AC" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=720&lines=Computer+Engineering+%40+University+of+Ruhuna+%F0%9F%87%B1%F0%9F%87%B0;Building+LLM+apps%2C+RAG+pipelines+%26+AI+agents+%F0%9F%A4%96;Scalable+backends+with+NestJS+%26+Spring+Boot+%E2%9A%99%EF%B8%8F;Researching+AI+%C3%97+Security+%C3%97+Distributed+Systems+%F0%9F%94%AC" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/apsari-udithara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:udithara169@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=apsariUdithara&style=for-the-badge&color=7F5AF0&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
