@@ -13,38 +13,6 @@
   <a href="mailto:udithara169@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-
----
-
-## 🚀 What I do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Engineering
-
-- Full-stack web apps & scalable backends
-- RESTful APIs and microservices
-- Event-driven & distributed systems
-- Docker, cloud deployment & CI/CD
-- Agile / Scrum teamwork
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI & Machine Learning
-
-- LLM-powered & Generative AI apps
-- Agentic and multi-agent systems
-- RAG pipelines for grounded answers
-- Tool calling & multi-step workflows
-- Anomaly detection & federated learning
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🛠️ Tech stack
