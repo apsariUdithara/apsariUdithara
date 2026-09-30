@@ -13,34 +13,6 @@
   <a href="mailto:udithara169@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
-## 👩‍💻 About me
-
-```ts
-const apsari = {
-  role: "Software Engineer · AI/ML Engineer · Researcher",
-  education:
-    "BSc (Hons) Computer Engineering - University of Ruhuna, Sri Lanka",
-  focus: [
-    "LLM apps",
-    "RAG",
-    "Agentic & multi-agent systems",
-    "Scalable backends",
-  ],
-  research: [
-    "AI for cybersecurity",
-    "Federated learning",
-    "Intelligent networks",
-  ],
-  currently: "Turning my final-year research into papers 📝",
-  openTo: ["AI/ML research", "Open source", "Backend & distributed systems"],
-  funFact: "Top 12 in Sri Lanka at IEEEXtreme 18.0 🏆",
-};
-```
-
-> [!TIP]
-> I like combining solid software engineering with modern AI to build systems that are reliable enough for production, not just demos.
 
 ---
 
