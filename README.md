@@ -116,14 +116,6 @@ The quickest way to reach me is [email](mailto:udithara169@gmail.com) or [Linked
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/snake-light.svg" />
-    <img alt="Contribution snake" src="./profile/snake-light.svg" />
-  </picture>
-</p>
-
-<p align="center">
   <i>Building software. Exploring AI. Conducting research. Learning continuously.</i>
 </p>
 
