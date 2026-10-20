@@ -76,19 +76,6 @@ IEEEXtreme 17.0 · CODESPRINT 8 · RED CYPHER 1.0 · Innovate with Ballerina · 
 
 ---
 
-## 🌱 My learning path
-
-```mermaid
-flowchart LR
-    A[Software<br/>Engineering] --> B[Scalable<br/>Backends]
-    B --> C[AI / ML]
-    C --> D[LLMs &<br/>GenAI]
-    D --> E[RAG &<br/>Agentic AI]
-    E --> F[Research &<br/>Intelligent Systems]
-    style A fill:#7F5AF0,color:#fff,stroke:none
-    style F fill:#2CB67D,color:#fff,stroke:none
-```
-
 ---
 
 ## 🤝 Let's collaborate
